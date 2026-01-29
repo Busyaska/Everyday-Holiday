@@ -8,4 +8,5 @@ dependencies = [
     "aiohttp>=3.13.3",
     "pytelegrambotapi>=4.30.0",
     "python-dotenv>=1.2.1",
+    "sqlalchemy>=2.0.46",
 ]
