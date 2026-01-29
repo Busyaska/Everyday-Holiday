@@ -1,0 +1,11 @@
+[project]
+name = "everyday-holiday"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "aiohttp>=3.13.3",
+    "pytelegrambotapi>=4.30.0",
+    "python-dotenv>=1.2.1",
+]
